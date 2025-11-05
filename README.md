@@ -1,6 +1,9 @@
+Open the ESG_Rating_Pipeline.ipynb notebook on google colab 
+
 Step 1 — Preparation
   
   Run Section 1 — “Prep.”
+  Connect to drive
   Cell 2 in this section creates the required folders
   
   All files needed are here in the repository download them, the xgb_model is too large to be uploaded on github so you can find it here : 
@@ -21,6 +24,7 @@ Step 3 - Human in the loop
 
 To speed things up, you can enter the KPI-selection data manually using the values from Tables 2 and 3 in the thesis (rating cell is replacing -1 by NaN)
 For the KPI renewable_energy_pct, the extraction model looks for “% renewable,” but MSCI reports the non-renewable share --> NO problem for PPF its 50% either way :)
+After validating the KPI, complete the Issuer Name / Issure Country (NL) / IVA_INDUSTRY (Telecommunication Services) at the top right then click "exporter df_features" at the bottom
 
 Performance note (Google Colab)
 
