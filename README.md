@@ -3,8 +3,10 @@ Open the ESG_Rating_Pipeline.ipynb notebook on google colab
 Step 1 — Preparation
   
   Run Section 1 — “Prep.”
+  
   Connect to drive
-  Cell 2 in this section creates the required folders
+  
+  Cell 2 in this section creates the required folders in your drive
   
   All files needed are here in the repository download them.
   
