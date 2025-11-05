@@ -6,7 +6,17 @@ Step 1 — Preparation
   Connect to drive
   Cell 2 in this section creates the required folders
   
-  All files needed are here in the repository download them, the xgb_model is too large to be uploaded on github so you can find it here : 
+  All files needed are here in the repository download them.
+  
+  reports :
+    PPF.pdf
+    PPF controversy.pdf
+
+  XGB artifacts : 
+    sector_bias.csv
+    feature_columns.json
+  
+  the xgb_model is too large to be uploaded on github so you can find it here : 
   https://www.dropbox.com/scl/fi/nsrthylfav3y02mn9wweg/xgb_model.json?rlkey=xlhitq6kgz6sownlufvy75j0l&st=d8rdvlz6&dl=0
   
   Place both PPF reports in:
