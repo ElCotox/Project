@@ -1,0 +1,726 @@
+sector,wa_bin,wa_bin_id,bias,n_sb
+Aerospace & Defense,1.0,2,,2
+Aerospace & Defense,1.5,3,,1
+Aerospace & Defense,2.5,5,,3
+Aerospace & Defense,3.0,6,,4
+Aerospace & Defense,3.5,7,-0.19999999999999993,7
+Aerospace & Defense,4.0,8,0.15714285714285733,14
+Aerospace & Defense,4.5,9,0.44374999999999987,16
+Aerospace & Defense,5.0,10,1.0272727272727276,22
+Aerospace & Defense,5.5,11,1.1481481481481484,27
+Aerospace & Defense,6.0,12,1.6666666666666667,6
+Aerospace & Defense,6.5,13,1.9166666666666667,6
+Aerospace & Defense,7.0,14,,2
+Aerospace & Defense,7.5,15,,1
+Air Freight & Logistics,3.0,6,,1
+Air Freight & Logistics,3.5,7,,3
+Air Freight & Logistics,4.0,8,,2
+Air Freight & Logistics,4.5,9,-0.2846153846153847,13
+Air Freight & Logistics,5.0,10,,3
+Air Freight & Logistics,5.5,11,0.15555555555555578,9
+Air Freight & Logistics,6.0,12,0.821428571428572,14
+Air Freight & Logistics,6.5,13,1.3214285714285712,14
+Air Freight & Logistics,7.0,14,,2
+Airlines,2.5,5,,3
+Airlines,3.5,7,-0.06666666666666654,12
+Airlines,4.0,8,1.0173913043478262,23
+Airlines,4.5,9,0.7863636363636364,44
+Airlines,5.0,10,2.2058823529411766,17
+Airlines,5.5,11,2.9545454545454546,11
+Airlines,6.0,12,,1
+Asset Management & Custody Banks,2.5,5,-2.514285714285714,7
+Asset Management & Custody Banks,3.0,6,-3.125,8
+Asset Management & Custody Banks,3.5,7,-1.9000000000000001,9
+Asset Management & Custody Banks,4.0,8,-1.715217391304347,46
+Asset Management & Custody Banks,4.5,9,-0.9342342342342342,111
+Asset Management & Custody Banks,5.0,10,0.35806451612903206,31
+Asset Management & Custody Banks,5.5,11,1.0958333333333334,72
+Asset Management & Custody Banks,6.0,12,1.55625,80
+Asset Management & Custody Banks,6.5,13,2.5839999999999996,25
+Asset Management & Custody Banks,7.0,14,,2
+Auto Components,1.0,2,,1
+Auto Components,1.5,3,,1
+Auto Components,2.0,4,,2
+Auto Components,2.5,5,-2.5799999999999996,5
+Auto Components,3.0,6,-1.77,10
+Auto Components,3.5,7,-1.0749999999999997,20
+Auto Components,4.0,8,-0.011111111111111134,36
+Auto Components,4.5,9,0.7838709677419357,31
+Auto Components,5.0,10,1.8878787878787877,33
+Auto Components,5.5,11,2.2916666666666665,12
+Auto Components,6.0,12,3.7000000000000006,6
+Auto Components,6.5,13,,1
+Auto Components,7.0,14,,1
+Automobiles,2.0,4,,1
+Automobiles,3.0,6,-1.8125,24
+Automobiles,3.5,7,-1.4965517241379311,29
+Automobiles,4.0,8,-0.036585365853658784,41
+Automobiles,4.5,9,1.025,36
+Automobiles,5.0,10,2.2733333333333334,30
+Automobiles,5.5,11,3.0999999999999996,8
+Automobiles,6.0,12,,2
+Automobiles,6.5,13,,3
+Banks,2.0,4,,3
+Banks,2.5,5,-1.2000000000000004,17
+Banks,3.0,6,-0.7131147540983606,61
+Banks,3.5,7,-0.24328358208955225,134
+Banks,4.0,8,0.38731707317073166,205
+Banks,4.5,9,0.8309623430962344,239
+Banks,5.0,10,1.5299450549450548,364
+Banks,5.5,11,2.1376199616122835,521
+Banks,6.0,12,2.39493023255814,215
+Banks,6.5,13,2.6697142857142855,140
+Banks,7.0,14,2.6894736842105265,57
+Banks,7.5,15,2.2999999999999994,27
+Beverages,2.0,4,,1
+Beverages,2.5,5,,2
+Beverages,3.0,6,-1.2,6
+Beverages,3.5,7,-0.9888888888888887,9
+Beverages,4.0,8,-0.28571428571428586,14
+Beverages,4.5,9,0.22105263157894733,19
+Beverages,5.0,10,0.6916666666666668,12
+Beverages,5.5,11,1.3555555555555558,18
+Beverages,6.0,12,1.9136363636363638,22
+Beverages,6.5,13,,4
+Beverages,7.5,15,2.0999999999999996,5
+Biotechnology,2.0,4,,1
+Biotechnology,2.5,5,-2.44,10
+Biotechnology,3.0,6,-2.15,12
+Biotechnology,3.5,7,-1.5297872340425536,47
+Biotechnology,4.0,8,-0.6999999999999998,96
+Biotechnology,4.5,9,0.5234042553191489,47
+Biotechnology,5.0,10,1.6925925925925924,27
+Biotechnology,5.5,11,2.694117647058823,17
+Biotechnology,6.0,12,,1
+"Broadcasting, Cable & Satellite",5.0,10,,1
+Building Products,3.0,6,-3.2,5
+Building Products,4.0,8,,2
+Building Products,4.5,9,-0.7333333333333331,9
+Building Products,5.0,10,-0.37857142857142867,14
+Building Products,5.5,11,0.7448275862068965,29
+Building Products,6.0,12,1.5076923076923074,26
+Building Products,6.5,13,2.168235294117647,17
+Building Products,7.0,14,2.8375000000000004,8
+Building Products,7.5,15,,2
+Casinos & Gaming,2.5,5,,4
+Casinos & Gaming,3.5,7,-1.8,5
+Casinos & Gaming,4.0,8,,2
+Casinos & Gaming,4.5,9,-0.6909090909090908,11
+Casinos & Gaming,5.0,10,-0.35999999999999976,10
+Casinos & Gaming,5.5,11,0.14444444444444463,18
+Casinos & Gaming,6.0,12,1.0083333333333329,12
+Casinos & Gaming,6.5,13,1.1699999999999995,10
+Casinos & Gaming,7.0,14,,2
+Casinos & Gaming,7.5,15,2.2875000000000005,8
+Casinos & Gaming,8.0,16,,1
+Commercial Services & Supplies,0.5,1,,1
+Commercial Services & Supplies,3.0,6,,1
+Commercial Services & Supplies,3.5,7,,2
+Commercial Services & Supplies,4.0,8,-2.3249999999999997,8
+Commercial Services & Supplies,4.5,9,-1.186666666666667,30
+Commercial Services & Supplies,5.0,10,-0.6555555555555556,18
+Commercial Services & Supplies,5.5,11,-0.3631578947368422,19
+Commercial Services & Supplies,6.0,12,0.2892857142857143,28
+Commercial Services & Supplies,6.5,13,0.7107142857142856,28
+Commercial Services & Supplies,7.0,14,1.3361538461538462,13
+Commercial Services & Supplies,8.0,16,,4
+Commodity & Diversified Chemicals,0.5,1,,1
+Commodity & Diversified Chemicals,1.0,2,,1
+Commodity & Diversified Chemicals,2.0,4,,3
+Commodity & Diversified Chemicals,2.5,5,-1.3571428571428572,7
+Commodity & Diversified Chemicals,3.0,6,-0.7055555555555555,18
+Commodity & Diversified Chemicals,3.5,7,0.024999999999999967,24
+Commodity & Diversified Chemicals,4.0,8,0.27222222222222214,18
+Commodity & Diversified Chemicals,4.5,9,0.9659090909090913,44
+Commodity & Diversified Chemicals,5.0,10,1.5021739130434781,46
+Commodity & Diversified Chemicals,5.5,11,1.9523809523809528,21
+Commodity & Diversified Chemicals,6.0,12,2.2875,8
+Commodity & Diversified Chemicals,6.5,13,,1
+Construction & Engineering,1.0,2,,1
+Construction & Engineering,1.5,3,,1
+Construction & Engineering,2.0,4,-2.2571428571428567,28
+Construction & Engineering,2.5,5,-1.225,8
+Construction & Engineering,3.0,6,-0.6320000000000001,25
+Construction & Engineering,3.5,7,-0.6698113207547172,53
+Construction & Engineering,4.0,8,-0.5357142857142856,28
+Construction & Engineering,4.5,9,0.3939393939393938,33
+Construction & Engineering,5.0,10,0.7672727272727273,55
+Construction & Engineering,5.5,11,1.4149999999999998,40
+Construction & Engineering,6.0,12,1.8519999999999999,25
+Construction & Engineering,6.5,13,1.9857142857142855,14
+Construction & Engineering,7.0,14,,3
+Construction & Engineering,7.5,15,,2
+Construction & Farm Machinery & Heavy Trucks,2.0,4,,1
+Construction & Farm Machinery & Heavy Trucks,2.5,5,,1
+Construction & Farm Machinery & Heavy Trucks,3.5,7,,3
+Construction & Farm Machinery & Heavy Trucks,4.0,8,-1.4363636363636365,11
+Construction & Farm Machinery & Heavy Trucks,4.5,9,-0.5999999999999999,32
+Construction & Farm Machinery & Heavy Trucks,5.0,10,0.6909090909090907,44
+Construction & Farm Machinery & Heavy Trucks,5.5,11,1.5470588235294118,34
+Construction & Farm Machinery & Heavy Trucks,6.0,12,2.11875,16
+Construction & Farm Machinery & Heavy Trucks,6.5,13,3.2133333333333325,15
+Construction Materials,1.0,2,,2
+Construction Materials,1.5,3,-0.9714285714285714,7
+Construction Materials,2.0,4,,1
+Construction Materials,2.5,5,-0.49999999999999994,7
+Construction Materials,3.0,6,-0.09999999999999998,8
+Construction Materials,3.5,7,0.41000000000000003,10
+Construction Materials,4.0,8,0.7124999999999999,16
+Construction Materials,4.5,9,1.1444444444444446,9
+Construction Materials,5.0,10,,3
+Construction Materials,5.5,11,1.795238095238095,21
+Construction Materials,6.0,12,2.1500000000000004,6
+Construction Materials,6.5,13,,1
+Construction Materials,7.0,14,,3
+Construction Materials,7.5,15,,1
+Construction Materials,8.0,16,1.8000000000000007,7
+Consumer Finance,2.5,5,,1
+Consumer Finance,3.0,6,-2.0749999999999997,8
+Consumer Finance,3.5,7,-1.553846153846154,13
+Consumer Finance,4.0,8,-1.0526315789473688,19
+Consumer Finance,4.5,9,-0.04285714285714289,14
+Consumer Finance,5.0,10,1.284848484848485,33
+Consumer Finance,5.5,11,1.7500000000000002,18
+Consumer Finance,6.0,12,2.5625,8
+Consumer Finance,6.5,13,,1
+Consumer Finance,7.0,14,,2
+Containers & Packaging,1.5,3,,1
+Containers & Packaging,4.5,9,-1.7307692307692304,13
+Containers & Packaging,5.0,10,0.3583333333333334,12
+Containers & Packaging,5.5,11,1.2193548387096773,31
+Containers & Packaging,6.0,12,1.9933333333333334,15
+Containers & Packaging,6.5,13,,2
+Diversified Consumer Services,3.0,6,,1
+Diversified Consumer Services,3.5,7,,2
+Diversified Consumer Services,4.0,8,-0.5750000000000002,8
+Diversified Consumer Services,4.5,9,0.2692307692307692,13
+Diversified Consumer Services,5.0,10,1.1599999999999997,10
+Diversified Consumer Services,5.5,11,2.285714285714285,14
+Diversified Consumer Services,6.0,12,2.6,5
+Diversified Consumer Services,6.5,13,,4
+Diversified Consumer Services,7.0,14,,3
+Diversified Financials,1.5,3,,1
+Diversified Financials,2.0,4,-2.1500000000000004,8
+Diversified Financials,2.5,5,,4
+Diversified Financials,3.0,6,-1.3285714285714287,7
+Diversified Financials,3.5,7,-1.075,20
+Diversified Financials,4.0,8,-0.5573770491803278,61
+Diversified Financials,4.5,9,-0.08333333333333336,66
+Diversified Financials,5.0,10,0.832727272727273,55
+Diversified Financials,5.5,11,1.322,50
+Diversified Financials,6.0,12,1.7729166666666665,48
+Diversified Financials,6.5,13,2.242857142857143,28
+Diversified Financials,7.0,14,,3
+Diversified Financials,8.0,16,,1
+Electrical Equipment,1.5,3,,1
+Electrical Equipment,2.0,4,,2
+Electrical Equipment,2.5,5,,1
+Electrical Equipment,3.0,6,-2.82,5
+Electrical Equipment,3.5,7,-3.2399999999999998,5
+Electrical Equipment,4.0,8,-2.521739130434782,23
+Electrical Equipment,4.5,9,-1.5466666666666664,15
+Electrical Equipment,5.0,10,-0.33409090909090916,44
+Electrical Equipment,5.5,11,0.6272727272727271,33
+Electrical Equipment,6.0,12,1.2827586206896553,29
+Electrical Equipment,6.5,13,2.1900000000000004,10
+Electrical Equipment,7.0,14,2.7399999999999998,5
+Electrical Equipment,7.5,15,,1
+"Electronic Equipment, Instruments & Components",2.0,4,,2
+"Electronic Equipment, Instruments & Components",2.5,5,,3
+"Electronic Equipment, Instruments & Components",3.0,6,-1.911111111111111,9
+"Electronic Equipment, Instruments & Components",3.5,7,-1.1041666666666667,24
+"Electronic Equipment, Instruments & Components",4.0,8,-0.5714285714285714,35
+"Electronic Equipment, Instruments & Components",4.5,9,0.13962264150943404,53
+"Electronic Equipment, Instruments & Components",5.0,10,0.9793103448275862,58
+"Electronic Equipment, Instruments & Components",5.5,11,1.7550000000000001,40
+"Electronic Equipment, Instruments & Components",6.0,12,2.309090909090909,11
+"Electronic Equipment, Instruments & Components",6.5,13,,3
+"Electronic Equipment, Instruments & Components",7.0,14,,1
+Energy Equipment & Services,2.5,5,,1
+Energy Equipment & Services,3.5,7,,2
+Energy Equipment & Services,4.0,8,,2
+Energy Equipment & Services,4.5,9,-2.5785714285714287,14
+Energy Equipment & Services,5.0,10,-2.3739130434782605,23
+Energy Equipment & Services,5.5,11,-1.6285714285714283,14
+Energy Equipment & Services,6.0,12,-0.7600000000000001,10
+Energy Equipment & Services,6.5,13,-0.43333333333333335,18
+Energy Equipment & Services,7.0,14,0.0823529411764705,17
+Energy Equipment & Services,7.5,15,0.3916666666666669,12
+Energy Equipment & Services,8.0,16,,3
+Energy Equipment & Services,8.5,17,,1
+Food Products,2.0,4,,1
+Food Products,2.5,5,-1.6875,8
+Food Products,3.0,6,-1.122222222222222,36
+Food Products,3.5,7,-0.08627450980392154,51
+Food Products,4.0,8,0.3576923076923077,52
+Food Products,4.5,9,1.3068181818181819,44
+Food Products,5.0,10,2.197222222222222,72
+Food Products,5.5,11,2.6421052631578954,38
+Food Products,6.0,12,3.5,10
+Food Products,6.5,13,3.3833333333333333,6
+Health Care Equipment & Supplies,3.0,6,,1
+Health Care Equipment & Supplies,3.5,7,,2
+Health Care Equipment & Supplies,4.0,8,-1.3866666666666665,15
+Health Care Equipment & Supplies,4.5,9,-1.0117647058823531,17
+Health Care Equipment & Supplies,5.0,10,-0.40483870967741936,62
+Health Care Equipment & Supplies,5.5,11,0.41612903225806464,62
+Health Care Equipment & Supplies,6.0,12,1.1372549019607845,51
+Health Care Equipment & Supplies,6.5,13,1.7994285714285716,35
+Health Care Equipment & Supplies,7.0,14,2.623529411764706,17
+Health Care Equipment & Supplies,7.5,15,2.3222222222222224,9
+Health Care Equipment & Supplies,8.0,16,2.0,5
+Health Care Providers & Services,2.5,5,,1
+Health Care Providers & Services,3.0,6,,2
+Health Care Providers & Services,3.5,7,-2.7999999999999994,6
+Health Care Providers & Services,4.0,8,-1.272727272727273,11
+Health Care Providers & Services,4.5,9,-0.5592592592592593,27
+Health Care Providers & Services,5.0,10,-0.17499999999999988,32
+Health Care Providers & Services,5.5,11,0.513793103448276,58
+Health Care Providers & Services,6.0,12,1.3203389830508474,59
+Health Care Providers & Services,6.5,13,1.9458064516129034,31
+Health Care Providers & Services,7.0,14,2.262222222222223,9
+Health Care Providers & Services,7.5,15,,3
+Health Care Providers & Services,8.0,16,,3
+Health Care Technology,4.0,8,,4
+Health Care Technology,4.5,9,,1
+Health Care Technology,5.0,10,-0.7882352941176469,17
+Health Care Technology,5.5,11,0.6,5
+Health Care Technology,6.5,13,,1
+Hotels & Travel,2.0,4,,1
+Hotels & Travel,2.5,5,,1
+Hotels & Travel,3.0,6,,2
+Hotels & Travel,4.0,8,-0.24500000000000005,20
+Hotels & Travel,4.5,9,-0.15555555555555578,18
+Hotels & Travel,5.0,10,0.9652173913043479,23
+Hotels & Travel,5.5,11,1.635294117647059,17
+Hotels & Travel,6.0,12,2.125,16
+Hotels & Travel,6.5,13,2.9,7
+Hotels & Travel,7.0,14,2.9,5
+Hotels & Travel,7.5,15,,2
+Household & Personal Products,2.0,4,,4
+Household & Personal Products,2.5,5,,3
+Household & Personal Products,3.0,6,0.06000000000000005,5
+Household & Personal Products,3.5,7,0.041666666666666775,12
+Household & Personal Products,4.0,8,0.5666666666666669,9
+Household & Personal Products,4.5,9,1.2666666666666666,9
+Household & Personal Products,5.0,10,2.022222222222222,9
+Household & Personal Products,5.5,11,2.4619047619047616,21
+Household & Personal Products,6.0,12,,3
+Household & Personal Products,6.5,13,,4
+Household Durables,2.0,4,,1
+Household Durables,3.0,6,,3
+Household Durables,3.5,7,,3
+Household Durables,4.0,8,-0.6125,8
+Household Durables,4.5,9,0.44545454545454555,11
+Household Durables,5.0,10,0.9285714285714284,21
+Household Durables,5.5,11,2.1333333333333337,18
+Household Durables,6.0,12,3.0666666666666664,6
+Household Durables,7.0,14,,4
+Industrial Conglomerates,1.5,3,,1
+Industrial Conglomerates,2.5,5,-1.9000000000000004,5
+Industrial Conglomerates,3.0,6,,2
+Industrial Conglomerates,3.5,7,-0.2969696969696971,33
+Industrial Conglomerates,4.0,8,0.5055555555555556,18
+Industrial Conglomerates,4.5,9,0.5,28
+Industrial Conglomerates,5.0,10,1.7030303030303033,33
+Industrial Conglomerates,5.5,11,2.4153846153846157,26
+Industrial Conglomerates,6.0,12,3.4058823529411764,17
+Industrial Conglomerates,6.5,13,3.3600000000000003,5
+Industrial Conglomerates,7.0,14,,4
+Industrial Machinery,2.5,5,,2
+Industrial Machinery,3.0,6,-2.9857142857142853,7
+Industrial Machinery,3.5,7,-1.8666666666666663,9
+Industrial Machinery,4.0,8,-0.835,20
+Industrial Machinery,4.5,9,-0.2999999999999999,30
+Industrial Machinery,5.0,10,0.6528301886792451,53
+Industrial Machinery,5.5,11,1.475925925925926,54
+Industrial Machinery,6.0,12,2.1156249999999996,32
+Industrial Machinery,6.5,13,2.909090909090909,11
+Industrial Machinery,7.0,14,,4
+Integrated Oil & Gas,1.5,3,,1
+Integrated Oil & Gas,2.5,5,,1
+Integrated Oil & Gas,3.5,7,-2.7,5
+Integrated Oil & Gas,4.0,8,-1.364705882352941,17
+Integrated Oil & Gas,4.5,9,-0.7750000000000007,12
+Integrated Oil & Gas,5.0,10,0.011111111111111368,9
+Integrated Oil & Gas,5.5,11,-0.9538461538461538,91
+Integrated Oil & Gas,6.0,12,0.9933333333333335,15
+Integrated Oil & Gas,6.5,13,,2
+Integrated Oil & Gas,7.0,14,,1
+Interactive Media & Services,2.5,5,,1
+Interactive Media & Services,3.0,6,,1
+Interactive Media & Services,3.5,7,-0.4699999999999999,10
+Interactive Media & Services,4.0,8,0.13571428571428568,14
+Interactive Media & Services,4.5,9,0.9846153846153849,13
+Interactive Media & Services,5.0,10,2.046153846153846,13
+Interactive Media & Services,5.5,11,2.689473684210526,19
+Interactive Media & Services,6.0,12,2.692,5
+Interactive Media & Services,6.5,13,,1
+Investment Banking & Brokerage,2.0,4,,4
+Investment Banking & Brokerage,2.5,5,-2.22,5
+Investment Banking & Brokerage,3.0,6,-1.1533333333333333,15
+Investment Banking & Brokerage,3.5,7,-0.3925,40
+Investment Banking & Brokerage,4.0,8,0.2935483870967741,31
+Investment Banking & Brokerage,4.5,9,1.217142857142857,35
+Investment Banking & Brokerage,5.0,10,0.924444444444445,45
+Investment Banking & Brokerage,5.5,11,2.4070796460176993,113
+Investment Banking & Brokerage,6.0,12,2.5478260869565217,46
+Investment Banking & Brokerage,6.5,13,3.5,6
+Investment Banking & Brokerage,7.0,14,,1
+Leisure Products,4.0,8,-1.5833333333333333,6
+Leisure Products,4.5,9,-1.0416666666666667,12
+Leisure Products,5.0,10,,3
+Leisure Products,5.5,11,0.45000000000000007,10
+Leisure Products,6.0,12,0.8500000000000002,8
+Leisure Products,6.5,13,,1
+Leisure Products,7.0,14,,3
+Leisure Products,7.5,15,,1
+Life & Health Insurance,3.0,6,,1
+Life & Health Insurance,3.5,7,,2
+Life & Health Insurance,4.0,8,-1.1200000000000003,5
+Life & Health Insurance,4.5,9,-0.1428571428571429,21
+Life & Health Insurance,5.0,10,0.12800000000000003,25
+Life & Health Insurance,5.5,11,1.8078947368421054,38
+Life & Health Insurance,6.0,12,2.48516129032258,62
+Life & Health Insurance,6.5,13,3.163157894736842,19
+Life & Health Insurance,7.0,14,2.6734999999999993,20
+Marine Transport,3.0,6,,2
+Marine Transport,4.0,8,,2
+Marine Transport,4.5,9,-2.9285714285714284,7
+Marine Transport,5.0,10,-1.3900000000000003,10
+Marine Transport,5.5,11,-0.6214285714285713,14
+Marine Transport,6.0,12,0.5100000000000001,10
+Marine Transport,6.5,13,,2
+Media,5.0,10,,1
+Media,6.0,12,,1
+Media,8.0,16,,1
+Media & Entertainment,2.0,4,,1
+Media & Entertainment,2.5,5,,1
+Media & Entertainment,3.0,6,-1.5833333333333333,6
+Media & Entertainment,3.5,7,-1.0523809523809522,21
+Media & Entertainment,4.0,8,-0.7465116279069768,43
+Media & Entertainment,4.5,9,-0.1945454545454546,55
+Media & Entertainment,5.0,10,0.3973684210526317,76
+Media & Entertainment,5.5,11,0.8238095238095237,42
+Media & Entertainment,6.0,12,1.6774193548387097,31
+Media & Entertainment,6.5,13,2.185714285714286,7
+Media & Entertainment,7.0,14,,3
+Media & Entertainment,7.5,15,,2
+Metals and Mining - Non-Precious Metals,0.5,1,,2
+Metals and Mining - Non-Precious Metals,1.5,3,,2
+Metals and Mining - Non-Precious Metals,2.0,4,-0.9727272727272728,11
+Metals and Mining - Non-Precious Metals,2.5,5,-0.46874999999999994,16
+Metals and Mining - Non-Precious Metals,3.0,6,-0.00833333333333334,24
+Metals and Mining - Non-Precious Metals,3.5,7,0.625,24
+Metals and Mining - Non-Precious Metals,4.0,8,0.7576923076923078,26
+Metals and Mining - Non-Precious Metals,4.5,9,1.3130434782608698,46
+Metals and Mining - Non-Precious Metals,5.0,10,1.7705882352941178,34
+Metals and Mining - Non-Precious Metals,5.5,11,2.1818181818181817,11
+Metals and Mining - Non-Precious Metals,6.0,12,,3
+Metals and Mining - Non-Precious Metals,6.5,13,,3
+Metals and Mining - Precious Metals,1.5,3,,3
+Metals and Mining - Precious Metals,2.0,4,,1
+Metals and Mining - Precious Metals,2.5,5,,3
+Metals and Mining - Precious Metals,3.0,6,,1
+Metals and Mining - Precious Metals,3.5,7,-1.2599999999999998,10
+Metals and Mining - Precious Metals,4.0,8,-0.07142857142857151,21
+Metals and Mining - Precious Metals,4.5,9,0.6476190476190476,21
+Metals and Mining - Precious Metals,5.0,10,1.4043478260869566,23
+Metals and Mining - Precious Metals,5.5,11,2.4473684210526314,19
+Metals and Mining - Precious Metals,6.0,12,,1
+Multi-Line Insurance & Brokerage,1.0,2,,1
+Multi-Line Insurance & Brokerage,2.5,5,,3
+Multi-Line Insurance & Brokerage,3.0,6,,2
+Multi-Line Insurance & Brokerage,3.5,7,-1.5625,8
+Multi-Line Insurance & Brokerage,4.0,8,-1.5999999999999999,6
+Multi-Line Insurance & Brokerage,4.5,9,-0.4631578947368425,19
+Multi-Line Insurance & Brokerage,5.0,10,0.09310344827586207,29
+Multi-Line Insurance & Brokerage,5.5,11,0.6736842105263158,19
+Multi-Line Insurance & Brokerage,6.0,12,1.6500000000000004,12
+Multi-Line Insurance & Brokerage,6.5,13,1.7982352941176476,17
+Multi-Line Insurance & Brokerage,7.0,14,2.282272727272728,22
+Multi-Line Insurance & Brokerage,7.5,15,2.40625,16
+Multi-Line Insurance & Brokerage,8.0,16,2.0,9
+Oil & Gas Exploration & Production,1.0,2,,1
+Oil & Gas Exploration & Production,1.5,3,,1
+Oil & Gas Exploration & Production,2.0,4,,3
+Oil & Gas Exploration & Production,2.5,5,-2.6666666666666665,6
+Oil & Gas Exploration & Production,3.0,6,-1.875,8
+Oil & Gas Exploration & Production,3.5,7,-1.4208333333333334,24
+Oil & Gas Exploration & Production,4.0,8,-0.2250000000000002,16
+Oil & Gas Exploration & Production,4.5,9,0.7156250000000002,32
+Oil & Gas Exploration & Production,5.0,10,1.2867924528301884,53
+Oil & Gas Exploration & Production,5.5,11,2.2875,32
+Oil & Gas Exploration & Production,6.0,12,2.8375,8
+Oil & Gas Exploration & Production,6.5,13,,3
+Oil & Gas Exploration & Production,7.5,15,,1
+"Oil & Gas Refining, Marketing, Transportation & Storage",3.0,6,,2
+"Oil & Gas Refining, Marketing, Transportation & Storage",3.5,7,-1.3937500000000003,16
+"Oil & Gas Refining, Marketing, Transportation & Storage",4.0,8,-1.2407407407407407,27
+"Oil & Gas Refining, Marketing, Transportation & Storage",4.5,9,-0.32500000000000007,36
+"Oil & Gas Refining, Marketing, Transportation & Storage",5.0,10,0.509734513274336,113
+"Oil & Gas Refining, Marketing, Transportation & Storage",5.5,11,0.829032258064516,31
+"Oil & Gas Refining, Marketing, Transportation & Storage",6.0,12,1.7754385964912278,57
+"Oil & Gas Refining, Marketing, Transportation & Storage",6.5,13,2.069230769230769,13
+"Oil & Gas Refining, Marketing, Transportation & Storage",7.0,14,2.406060606060606,33
+"Oil & Gas Refining, Marketing, Transportation & Storage",7.5,15,2.2333333333333334,9
+"Oil & Gas Refining, Marketing, Transportation & Storage",8.0,16,,1
+"Oil & Gas Refining, Marketing, Transportation & Storage",9.0,18,,1
+Paper & Forest Products,2.5,5,,1
+Paper & Forest Products,3.5,7,,4
+Paper & Forest Products,4.0,8,-1.7285714285714289,14
+Paper & Forest Products,4.5,9,-0.6846153846153846,13
+Paper & Forest Products,5.0,10,0.3000000000000002,13
+Paper & Forest Products,5.5,11,1.3923076923076925,13
+Paper & Forest Products,6.0,12,,2
+Paper & Forest Products,6.5,13,3.2,5
+Paper & Forest Products,7.0,14,,1
+Pharmaceuticals,1.5,3,,1
+Pharmaceuticals,2.0,4,-1.1833333333333333,6
+Pharmaceuticals,2.5,5,-0.7333333333333331,6
+Pharmaceuticals,3.0,6,-0.444,25
+Pharmaceuticals,3.5,7,0.19333333333333347,45
+Pharmaceuticals,4.0,8,0.7193548387096774,62
+Pharmaceuticals,4.5,9,1.2953488372093025,43
+Pharmaceuticals,5.0,10,2.0580645161290327,62
+Pharmaceuticals,5.5,11,2.572222222222222,18
+Pharmaceuticals,6.0,12,3.3000000000000007,6
+Pharmaceuticals,6.5,13,,4
+Professional Services,3.0,6,,2
+Professional Services,3.5,7,,2
+Professional Services,4.0,8,-1.69,10
+Professional Services,4.5,9,-1.4149999999999996,20
+Professional Services,5.0,10,-0.55,20
+Professional Services,5.5,11,-0.1521739130434782,23
+Professional Services,6.0,12,0.51,30
+Professional Services,6.5,13,1.1642857142857141,42
+Professional Services,7.0,14,2.069230769230769,13
+Professional Services,7.5,15,,4
+Professional Services,8.0,16,,4
+Property & Casualty Insurance,2.5,5,,3
+Property & Casualty Insurance,3.0,6,,3
+Property & Casualty Insurance,3.5,7,-2.2444444444444445,9
+Property & Casualty Insurance,4.0,8,-1.1263157894736844,19
+Property & Casualty Insurance,4.5,9,0.3058823529411764,17
+Property & Casualty Insurance,5.0,10,1.0735294117647058,34
+Property & Casualty Insurance,5.5,11,2.054166666666667,24
+Property & Casualty Insurance,6.0,12,3.0031250000000003,16
+Property & Casualty Insurance,6.5,13,3.342857142857143,7
+Property & Casualty Insurance,7.0,14,,4
+Property & Casualty Insurance,7.5,15,,2
+Real Estate Development & Diversified Activities,1.5,3,,1
+Real Estate Development & Diversified Activities,2.0,4,-1.7222222222222223,9
+Real Estate Development & Diversified Activities,2.5,5,-1.3499999999999999,10
+Real Estate Development & Diversified Activities,3.0,6,-0.9846153846153846,26
+Real Estate Development & Diversified Activities,3.5,7,-0.42321428571428565,56
+Real Estate Development & Diversified Activities,4.0,8,-0.021621621621621723,37
+Real Estate Development & Diversified Activities,4.5,9,0.22051282051282056,39
+Real Estate Development & Diversified Activities,5.0,10,0.5504347826086955,46
+Real Estate Development & Diversified Activities,5.5,11,0.9641025641025641,39
+Real Estate Development & Diversified Activities,6.0,12,1.2565217391304346,46
+Real Estate Development & Diversified Activities,6.5,13,1.689473684210526,19
+Real Estate Development & Diversified Activities,7.0,14,2.4000000000000004,5
+Real Estate Management & Services,2.0,4,-2.3600000000000003,5
+Real Estate Management & Services,2.5,5,,4
+Real Estate Management & Services,3.0,6,-2.5714285714285716,7
+Real Estate Management & Services,3.5,7,-2.785714285714286,14
+Real Estate Management & Services,4.0,8,-2.1904761904761907,42
+Real Estate Management & Services,4.5,9,-1.5970149253731343,67
+Real Estate Management & Services,5.0,10,-1.043939393939394,132
+Real Estate Management & Services,5.5,11,-0.36953642384105967,151
+Real Estate Management & Services,6.0,12,0.28040540540540543,148
+Real Estate Management & Services,6.5,13,0.768217054263566,129
+Real Estate Management & Services,7.0,14,1.511111111111111,36
+Real Estate Management & Services,7.5,15,1.8923076923076925,26
+Real Estate Management & Services,8.0,16,,4
+Restaurants,1.5,3,,1
+Restaurants,2.0,4,,1
+Restaurants,2.5,5,,3
+Restaurants,3.0,6,,2
+Restaurants,3.5,7,-1.6875,16
+Restaurants,4.0,8,-0.5333333333333334,36
+Restaurants,4.5,9,0.8130434782608694,23
+Restaurants,5.0,10,1.5071428571428573,14
+Restaurants,5.5,11,,4
+Retail - Consumer Discretionary,2.0,4,,1
+Retail - Consumer Discretionary,2.5,5,,1
+Retail - Consumer Discretionary,3.0,6,,3
+Retail - Consumer Discretionary,3.5,7,-1.19,10
+Retail - Consumer Discretionary,4.0,8,-0.26896551724137935,29
+Retail - Consumer Discretionary,4.5,9,0.49943396226415104,53
+Retail - Consumer Discretionary,5.0,10,0.9017857142857143,56
+Retail - Consumer Discretionary,5.5,11,1.7361111111111114,72
+Retail - Consumer Discretionary,6.0,12,2.2319354838709677,62
+Retail - Consumer Discretionary,6.5,13,2.768636363636364,22
+Retail - Consumer Discretionary,7.0,14,2.853333333333333,15
+Retail - Consumer Discretionary,7.5,15,2.3333333333333335,6
+Retail - Consumer Discretionary,8.0,16,,2
+Retail - Consumer Discretionary,8.5,17,,1
+Retail - Food & Staples,2.0,4,,1
+Retail - Food & Staples,2.5,5,,3
+Retail - Food & Staples,3.0,6,-3.1714285714285713,7
+Retail - Food & Staples,3.5,7,-1.8857142857142857,7
+Retail - Food & Staples,4.0,8,-0.8812500000000001,16
+Retail - Food & Staples,4.5,9,0.17333333333333328,30
+Retail - Food & Staples,5.0,10,0.8485714285714286,35
+Retail - Food & Staples,5.5,11,1.9146341463414633,41
+Retail - Food & Staples,6.0,12,2.6785714285714284,14
+Retail - Food & Staples,6.5,13,3.3375000000000004,8
+Retail - Food & Staples,7.0,14,,1
+Road & Rail Transport,1.0,2,,1
+Road & Rail Transport,2.0,4,,1
+Road & Rail Transport,2.5,5,,2
+Road & Rail Transport,3.0,6,,2
+Road & Rail Transport,3.5,7,-0.6100000000000001,10
+Road & Rail Transport,4.0,8,0.06666666666666658,9
+Road & Rail Transport,4.5,9,1.0666666666666667,18
+Road & Rail Transport,5.0,10,1.6444444444444444,36
+Road & Rail Transport,5.5,11,2.225925925925926,27
+Road & Rail Transport,6.0,12,2.39,20
+Road & Rail Transport,6.5,13,3.16,5
+Road & Rail Transport,7.0,14,,4
+Road & Rail Transport,7.5,15,,1
+Road & Rail Transport,8.0,16,,1
+Semiconductors & Semiconductor Equipment,1.5,3,,2
+Semiconductors & Semiconductor Equipment,2.0,4,-2.1,5
+Semiconductors & Semiconductor Equipment,2.5,5,-2.733333333333333,9
+Semiconductors & Semiconductor Equipment,3.0,6,-2.8166666666666664,12
+Semiconductors & Semiconductor Equipment,3.5,7,-2.1999999999999997,16
+Semiconductors & Semiconductor Equipment,4.0,8,-1.6,40
+Semiconductors & Semiconductor Equipment,4.5,9,-1.2717391304347825,46
+Semiconductors & Semiconductor Equipment,5.0,10,-0.7105263157894735,38
+Semiconductors & Semiconductor Equipment,5.5,11,0.2566666666666667,30
+Semiconductors & Semiconductor Equipment,6.0,12,0.88,25
+Semiconductors & Semiconductor Equipment,6.5,13,1.1705882352941173,17
+Semiconductors & Semiconductor Equipment,7.0,14,2.0428571428571436,7
+Semiconductors & Semiconductor Equipment,7.5,15,,3
+Semiconductors & Semiconductor Equipment,8.0,16,,1
+Software & Services,2.0,4,,2
+Software & Services,2.5,5,,1
+Software & Services,3.0,6,-1.5500000000000003,8
+Software & Services,3.5,7,-0.9833333333333332,30
+Software & Services,4.0,8,-0.12368421052631588,38
+Software & Services,4.5,9,0.4732142857142856,56
+Software & Services,5.0,10,1.1605263157894736,76
+Software & Services,5.5,11,1.5478991596638656,119
+Software & Services,6.0,12,2.108571428571429,70
+Software & Services,6.5,13,2.8213888888888894,36
+Software & Services,7.0,14,2.75,6
+Software & Services,7.5,15,2.45,6
+Software & Services,8.0,16,,3
+Specialty Chemicals,0.5,1,,1
+Specialty Chemicals,1.5,3,,1
+Specialty Chemicals,2.0,4,,3
+Specialty Chemicals,2.5,5,-1.875,8
+Specialty Chemicals,3.0,6,-1.4777777777777776,9
+Specialty Chemicals,3.5,7,-0.7941176470588235,17
+Specialty Chemicals,4.0,8,-0.22222222222222213,18
+Specialty Chemicals,4.5,9,0.20370370370370364,27
+Specialty Chemicals,5.0,10,0.7222222222222222,36
+Specialty Chemicals,5.5,11,0.9756756756756755,37
+Specialty Chemicals,6.0,12,1.4000000000000001,29
+Specialty Chemicals,6.5,13,1.6499999999999992,10
+Specialty Chemicals,7.0,14,,2
+Steel,1.5,3,,1
+Steel,2.0,4,-2.1,5
+Steel,2.5,5,-1.58,10
+Steel,3.0,6,-0.7437500000000001,16
+Steel,3.5,7,-0.3666666666666667,21
+Steel,4.0,8,-0.05454545454545463,22
+Steel,4.5,9,1.1421052631578947,19
+Steel,5.0,10,1.991666666666667,24
+Steel,5.5,11,2.6599999999999997,5
+Steel,6.0,12,,2
+Steel,6.5,13,,1
+Steel,7.0,14,,1
+Steel,8.5,17,,1
+Supranationals & Development Banks,3.0,6,,1
+Supranationals & Development Banks,3.5,7,,1
+Supranationals & Development Banks,4.0,8,-2.3909090909090907,11
+Supranationals & Development Banks,4.5,9,,4
+Supranationals & Development Banks,5.0,10,-0.8769230769230772,13
+Supranationals & Development Banks,5.5,11,0.010000000000000231,10
+Supranationals & Development Banks,6.0,12,0.9909090909090904,11
+Supranationals & Development Banks,6.5,13,1.7266666666666666,15
+Supranationals & Development Banks,7.0,14,,4
+Supranationals & Development Banks,8.0,16,,1
+"Technology Hardware, Storage & Peripherals",2.5,5,-2.38,5
+"Technology Hardware, Storage & Peripherals",3.0,6,,4
+"Technology Hardware, Storage & Peripherals",3.5,7,-1.4045454545454545,22
+"Technology Hardware, Storage & Peripherals",4.0,8,-0.025000000000000088,20
+"Technology Hardware, Storage & Peripherals",4.5,9,0.6571428571428573,21
+"Technology Hardware, Storage & Peripherals",5.0,10,2.117948717948718,39
+"Technology Hardware, Storage & Peripherals",5.5,11,2.4764705882352946,17
+"Technology Hardware, Storage & Peripherals",6.0,12,3.866666666666667,6
+"Technology Hardware, Storage & Peripherals",6.5,13,3.3375000000000004,8
+Telecommunication Services,2.5,5,,2
+Telecommunication Services,3.0,6,,1
+Telecommunication Services,3.5,7,-2.677777777777778,9
+Telecommunication Services,4.0,8,-1.7909090909090906,22
+Telecommunication Services,4.5,9,-1.0538461538461539,26
+Telecommunication Services,5.0,10,0.2706896551724139,58
+Telecommunication Services,5.5,11,0.62,80
+Telecommunication Services,6.0,12,1.1935483870967745,62
+Telecommunication Services,6.5,13,1.52962962962963,27
+Telecommunication Services,7.0,14,2.2800000000000002,20
+Telecommunication Services,7.5,15,2.24,5
+Telecommunication Services,8.0,16,,1
+"Textiles, Apparel & Luxury Goods",1.5,3,,1
+"Textiles, Apparel & Luxury Goods",2.5,5,-1.4,5
+"Textiles, Apparel & Luxury Goods",3.0,6,-0.96,5
+"Textiles, Apparel & Luxury Goods",3.5,7,-0.4555555555555557,9
+"Textiles, Apparel & Luxury Goods",4.0,8,-0.08333333333333345,18
+"Textiles, Apparel & Luxury Goods",4.5,9,,3
+"Textiles, Apparel & Luxury Goods",5.0,10,1.4,17
+"Textiles, Apparel & Luxury Goods",5.5,11,1.9736842105263157,19
+"Textiles, Apparel & Luxury Goods",6.0,12,2.3750000000000004,12
+"Textiles, Apparel & Luxury Goods",6.5,13,,1
+"Textiles, Apparel & Luxury Goods",7.0,14,2.8166666666666664,6
+"Textiles, Apparel & Luxury Goods",7.5,15,,2
+Tobacco,1.0,2,,1
+Tobacco,2.0,4,,1
+Tobacco,3.5,7,,2
+Tobacco,4.0,8,0.9909090909090914,11
+Tobacco,4.5,9,1.8888888888888888,9
+Tobacco,5.0,10,,4
+Tobacco,5.5,11,,1
+Trading Companies & Distributors,2.0,4,-2.1,17
+Trading Companies & Distributors,2.5,5,,2
+Trading Companies & Distributors,3.5,7,,4
+Trading Companies & Distributors,4.0,8,-1.9222222222222223,9
+Trading Companies & Distributors,4.5,9,-0.5625,24
+Trading Companies & Distributors,5.0,10,-0.21000000000000005,30
+Trading Companies & Distributors,5.5,11,0.47435897435897434,39
+Trading Companies & Distributors,6.0,12,1.2833333333333334,36
+Trading Companies & Distributors,6.5,13,1.256,25
+Trading Companies & Distributors,7.0,14,2.18,5
+Trading Companies & Distributors,7.5,15,2.3714285714285714,7
+Transportation Infrastructure,2.0,4,,1
+Transportation Infrastructure,2.5,5,,3
+Transportation Infrastructure,3.0,6,,4
+Transportation Infrastructure,3.5,7,-1.425,8
+Transportation Infrastructure,4.0,8,-1.65,20
+Transportation Infrastructure,4.5,9,-0.9315789473684211,19
+Transportation Infrastructure,5.0,10,-0.3764705882352941,17
+Transportation Infrastructure,5.5,11,-0.015789473684210565,19
+Transportation Infrastructure,6.0,12,0.624324324324324,37
+Transportation Infrastructure,6.5,13,0.5461538461538462,26
+Transportation Infrastructure,7.0,14,0.7633333333333333,30
+Transportation Infrastructure,7.5,15,1.0555555555555558,9
+Transportation Infrastructure,8.0,16,,3
+Transportation Infrastructure,8.5,17,,4
+Utilities,1.0,2,,1
+Utilities,1.5,3,,2
+Utilities,2.0,4,-2.3833333333333333,6
+Utilities,2.5,5,-2.4090909090909096,11
+Utilities,3.0,6,-2.172222222222222,18
+Utilities,3.5,7,-1.5964285714285713,28
+Utilities,4.0,8,-1.6500000000000004,42
+Utilities,4.5,9,-0.827659574468085,47
+Utilities,5.0,10,-0.43977272727272737,88
+Utilities,5.5,11,-0.30483091787439637,207
+Utilities,6.0,12,0.27467532467532474,154
+Utilities,6.5,13,0.6550802139037432,187
+Utilities,7.0,14,0.7391304347826085,230
+Utilities,7.5,15,1.580597014925373,67
+Utilities,8.0,16,1.670588235294118,34
