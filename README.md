@@ -1,15 +1,16 @@
 Step 1 — Preparation
+  Run Section 1 — “Prep.”
+  Cell 2 in this section creates the required folders
+  
+  All files needed are here in the repository download them, the xgb_model is too large to be uploaded on github so you can find it here : 
+  https://www.dropbox.com/scl/fi/nsrthylfav3y02mn9wweg/xgb_model.json?rlkey=xlhitq6kgz6sownlufvy75j0l&st=d8rdvlz6&dl=0
+  
+  Place both PPF reports in:
+  esg_rating_project/data/reports_to_analyze
 
-Run Section 1 — “Prep.”
-
-Cell 2 in this section creates the required folders:
-
-Place both PPF reports in:
-esg_rating_project/data/reports_to_analyze
-
-Place the rating module artifacts in:
-  esg_rating_project/rating_module
-    Files expected: feature_columns.json, sector_bias.csv, xgb_model.json.
+  Place the rating module artifacts in:
+    esg_rating_project/rating_module
+      Files expected: feature_columns.json, sector_bias.csv, xgb_model.json.
 
 Step 2 — Execution
 Run all notebook cells in order (top to bottom), without skipping any.
